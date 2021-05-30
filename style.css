@@ -117,9 +117,6 @@ img {
   margin-top: 15px;
 }
 
-
-
-
 .descricoes {
   display: flex;
   flex-wrap: wrap;
@@ -132,8 +129,9 @@ img {
   margin: 0 10px;
   align-items: center;
   justify-content: space-between;
-
+  text-align: justify;
 }
+
 .descricao-img {
   width: 100px;
   height: 113px;
