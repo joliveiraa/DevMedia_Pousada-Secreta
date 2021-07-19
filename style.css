@@ -126,14 +126,19 @@ img {
   justify-content: space-between;
   padding-bottom: 50px;
 }
+
+.descricao-conteudo {
+  text-align: justify;
+}
+
 .descricao {
   display: flex;
   width: 45%;
   margin: 0 10px;
   align-items: center;
   justify-content: space-between;
-
 }
+
 .descricao-img {
   width: 100px;
   height: 113px;
